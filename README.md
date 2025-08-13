@@ -24,28 +24,6 @@ Install dependencies:
 ```bash
 pip install pygame
 ```
-
-## How to Run
-Clone this repository:
-```bash
-git clone https://github.com/yourusername/flappy-bird-project.git
-```
-
-Navigate to the project directory:
-```bash
-cd flappy-bird-project
-```
-
-Ensure `top-score.txt` exists (create it manually if missing):
-```bash
-echo 0 > top-score.txt
-```
-
-Run the game:
-```bash
-python flappy-bird.py
-```
-
 ---
 
 ## Controls
