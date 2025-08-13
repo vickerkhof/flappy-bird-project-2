@@ -1,4 +1,4 @@
-# Flappy Bird (Pygame)
+# Flappy Bird
 
 A minimalist implementation of the classic Flappy Bird game written in **Python** using **Pygame**.
 
